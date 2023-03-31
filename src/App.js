@@ -101,7 +101,7 @@ class App extends React.Component {
         <Switch>
           <Route
             exact
-            path="/"
+            path="/trybe-tunes-project"
             render={ (props) => (
               <Login
                 { ...props }

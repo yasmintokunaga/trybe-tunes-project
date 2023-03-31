@@ -1,0 +1,36 @@
+:root {
+  --my-color: rgb(0, 209, 178);
+  --my-color-background: rgb(242, 245, 255);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.centralized-content {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--my-color-background);
+}
+
+.container {
+  min-width: 300px;
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.fa-solid {
+  font-size: 35px;
+  margin-right: 15px;
+  color: var(--my-color);
+}
+
+button {
+  width: 100px;
+}

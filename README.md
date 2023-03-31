@@ -29,20 +29,20 @@ Uma plataforma de músicas, com páginas de: Login, Busca, Lista de álbuns e m�
 
 * Login
 
-![resultado do meu projeto](./src/image/project-super-tryunfo.png)
+![resultado do meu projeto](./src/img/trybetunes-login.png)
 
 * Busca
 
-![resultado do meu projeto](./src/image/project-super-tryunfo.png)
+![resultado do meu projeto](./src/img/trybetunes-search.png)
 
 * Lista de músicas
 
-![resultado do meu projeto](./src/image/project-super-tryunfo.png)
+![resultado do meu projeto](./src/img/trybetunes-musics.png)
 
 * Perfil
 
-![resultado do meu projeto](./src/image/project-super-tryunfo.png)
+![resultado do meu projeto](./src/img/trybetunes-profile.png)
 
 * Edição de perfil
 
-![resultado do meu projeto](./src/image/project-super-tryunfo.png)
+![resultado do meu projeto](./src/img/trybe-tunes-editprofile.png)

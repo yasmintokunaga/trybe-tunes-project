@@ -8,7 +8,7 @@ Projeto realizado durante o curso de Desenvolvimento Web na Trybe em Março, 202
 * CSS, 
 * JavaScript (Fazer requisições e consumir os dados de uma API,
 * React (manipulação dos estados de um componente, utilizar ciclos de vida do componente, transmitir informações entre componentes, , criação de rotas via Route, utilizar o Switch do React Router, criar links de navegação na aplicação com o componente `Link`, capturar eventos, criar formulários com a sintaxe JSX),
-*Biblioteca bulma.io
+* Biblioteca bulma.io
 
 # Objetivo:
 
